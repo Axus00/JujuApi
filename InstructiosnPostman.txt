@@ -1,0 +1,3 @@
+En el archivo ProjectApi.postman_collection.json se encuentra la documentación de los endpoints, el cual tiene una variable de entorno global:
+
+{{Url}} = http://localhost:5114/
